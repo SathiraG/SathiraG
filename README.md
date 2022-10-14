@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=expolk" alt="expolk" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[![@sathirass's Holopin board](https://holopin.me/sathirass)](https://holopin.io/@sathirass)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
