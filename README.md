@@ -14,7 +14,7 @@
 <a href="https://dev.to/sathirass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sathirass" height="30" width="40" /></a>
 <a href="https://twitter.com/sathira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sathira" height="30" width="40" /></a>
 <a href="https://fb.com/sathira gamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sathira gamage" height="30" width="40" /></a>
-<a href="https://instagram.com/sathirass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathirass" height="30" width="40" /></a>
+<a href="https://instagram.com/sathira.ss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sathirass" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ss expo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ss expo" height="30" width="40" /></a>
 <a href="https://discord.gg/tBT7bqZWy9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tBT7bqZWy9" height="30" width="40" /></a>
 </p>
